@@ -1,10 +1,6 @@
-### Hej, jestem Piotrek
+### hg
 
-Mam 17 lat, moją pasją jest chodzenie na siłkę, uczenie się programowania, granie w szachy i ligę.
+fgh
 
-### Kilka faktów o mnie:
-- 194cm wzrostu
-- blondyn
-- aktualnie na masie
-- piwne oczy
-- singleplayer
+### 
+
